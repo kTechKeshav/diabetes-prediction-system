@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Diabetes Prediction System</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div id="bg-canvas"></div>
+    <div id="content">
+        <header>
+            <h1><i class="fas fa-dna"></i> Diabetes Prediction System</h1>
+            <nav>
+                <a href="index.html" class="btn btn-primary"><i class="fas fa-home"></i> Home</a>
+            </nav>
+        </header>
+
+        <main>
+            <section id="login-form" class="form-container">
+                <h2>Welcome Back</h2>
+                <form id="login">
+                    <div class="form-group">
+                        <label for="email"><i class="fas fa-envelope"></i> Email:</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password"><i class="fas fa-lock"></i> Password:</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block"><i class="fas fa-sign-in-alt"></i> Login</button>
+                </form>
+                <p class="text-center">Don't have an account? <a href="signup.html">Sign up</a></p>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2024-2025 Diabetes Prediction System by 3rd year students</p>
+        </footer>
+    </div>
+
+    <script src="background.js"></script>
+    <script src="login.js"></script>
+
+</body>
+</html>
