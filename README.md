@@ -2,6 +2,9 @@ Note => ```backend and frontend are not connected```
 
 # 🏥 Diabetes Prediction System  
 
+## Live Demo
+Link => https://diabetes-prediction-system-csai.netlify.app/
+
 ## 🌟 Introduction  
 The **Diabetes Prediction System** is a Machine Learning-based web application that predicts **the likelihood of diabetes** based on user-provided medical data. The backend is built using **Django**, and the model is trained using **Python & Machine Learning libraries**.  
 
