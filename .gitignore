@@ -1,0 +1,35 @@
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+*.log
+.DS_Store
+Thumbs.db
+
+# Model checkpoints and large data files (optional)
+# Uncomment if you want to exclude these
+# *.joblib
+# *.csv
