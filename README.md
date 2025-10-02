@@ -1,4 +1,4 @@
-# 🎓 Diabetes Prediction using Logistic Regression
+# 🎓 Diabetes Prediction using Logistic Regression (Team Project)
 
 
 [![Render Status](https://img.shields.io/badge/Deployed-Live%20on%20Render-success?style=for-the-badge&logo=render)](https://testforestfires-dyi0.onrender.com/predict_data)
@@ -10,13 +10,20 @@ This project predicts whether a person has diabetes using a logistic regression 
 
 ### ROC AUC Score: 0.809
 > USE ```email: 'admin@gmail.com', password: '99999'```
+> 
 > 🚀 Live Demo: [Click here to try](https://diabetes-prediction-system-csai.netlify.app/)
 
 ---
 
 ## 📸 Preview
 
-<img src="images/Screenshot.png" alt="Prediction Page UI" width="500" height="700"/>
+<img src="images/dashboard.png" alt="Prediction Page UI" width="900" height="700"/>
+
+<img src="images/login.png" alt="Prediction Page UI" width="900" height="700"/>
+
+<img src="images/intro.png" alt="Prediction Page UI" width="900" height="700"/>
+
+<img src="images/form.png" alt="Prediction Page UI" width="900" height="700"/>
 
 ---
 
