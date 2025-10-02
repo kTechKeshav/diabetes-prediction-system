@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('Login successful!');
             localStorage.setItem('currentUser', email);
             // window.location.href = 'dashboard.html';
-            window.location.href = "http://127.0.0.1:8000"
+            window.location.href = "https://diabetes-prediction-using-logistic.onrender.com/"
         } else {
             alert('Invalid email or password');
         }
