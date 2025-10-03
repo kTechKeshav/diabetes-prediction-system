@@ -73,9 +73,9 @@ Live Deployment on Render
 Clone the project:
 
 ```bash
-git clone https://github.com/kTechKeshav/Diabetes-Prediction-using-Logistic-Regression.git
+git clone https://github.com/kTechKeshav/diabetes-prediction-system.git
 
-cd Diabetes-Prediction-using-Logistic-Regression
+cd diabetes-prediction-system
 ```
 
 
@@ -120,7 +120,7 @@ Final trained model saved as model.pkl.
 
 
 ## 🙌 Author
-Made with ❤️ by Keshav Awasthi
+Made with ❤️ by Keshav Awasthi and my team.
 
 ## ⭐ Feedback
 If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub. Your support motivates me to keep building cool stuff!
